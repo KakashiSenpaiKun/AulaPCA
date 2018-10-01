@@ -1,0 +1,39 @@
+git: versionamento de codigo
+
+github: "rede social de código"
+
+
+git-local
+
+github-nuvem 
+
+repositório: nuvem onde guardamos o projeto
+
+branch- timeline
+
+master- quer dizer que é sua timeline atual
+
+commit- descrição de cada upload
+
+git push- fazer upload
+
+git status- todas as atualizações do repositório
+
+git pull- fazer download
+
+comandos
+
+pwd- mostra o caminho completo
+
+cd- navegar entre os locais
+
+ls- arquivos que tem
+ls -a
+ls -h
+ls -l
+
+git clone- comando para fazer o download do arquivo
+
+conectar ao github:
+git config --global user.email asceno123@gmail.com
+git config --global user.name "KakashiSenpaiKun"
