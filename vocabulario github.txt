@@ -32,8 +32,10 @@ ls -a
 ls -h
 ls -l
 
-git clone- comando para fazer o download do arquivo
+git clone- (link do cone do site)comando para fazer o download do arquivo
 
 conectar ao github:
 git config --global user.email asceno123@gmail.com
 git config --global user.name "KakashiSenpaiKun"
+
+git add .- adicionar alterações na timeline
