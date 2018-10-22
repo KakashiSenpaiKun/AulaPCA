@@ -38,6 +38,8 @@ conectar ao github:
 git config --global user.email asceno123@gmail.com
 git config --global user.name "KakashiSenpaiKun"
 
+git fech - ver a timeline
+
 
 git pull-> puxar
 
